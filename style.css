@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: chartreuse;
+}
+.line{
+    width: 300px;
+    height: 6px;
+    margin: auto;
+    background-color: red;
+}
